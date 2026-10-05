@@ -1,6 +1,6 @@
 # 🌍 Envision SAI
 
-**The future of asset intelligence for Smart Cities and Renewable Energy.**
+**The future of asset intelligence for Smart Cities.**
 
 [![Website](https://img.shields.io/badge/Website-Visit_Us-blue?style=for-the-badge)](https://envisionsai.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow_Us-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/company/envisionsai)
